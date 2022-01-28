@@ -29,13 +29,13 @@ The next figure presents the methods used in our paper. Every step is detailled 
 
 ## Network inference
 
-# Correlations
+#### Correlations
 
 We used SparCC to infer microbial interactions for every group of study. Run the next command in your terminal to infer the microbial network:
 
 `bash net_inference_sparcc.sh`
 
-# Network preparation
+#### Network preparation
 
 Run the next script in R to get the nodes and edges of each network for every group of study:
 
@@ -43,9 +43,9 @@ Run the next script in R to get the nodes and edges of each network for every gr
 
 Note:  you will need to run an additional script in python. It is available in [notebook](www.abcdegfhg) format. 
 
-# Network visualization
+#### Network visualization
 
-Run the next script in R, it will create an html file with the network visualization
+Run the next script in R, it will create an html file with the network visualization:
 
 [net_visualization.R](www.abcdefgh.com)
 
