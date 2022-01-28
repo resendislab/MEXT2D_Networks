@@ -49,6 +49,21 @@ Run the next script in R, it will create an html file with the network visualiza
 
 [net_visualization.R](www.abcdefgh.com)
 
+## Network analysis
+
+In this step we used [Netshift](https://doi.org/10.1038/s41396-018-0291-x) to evaluate the topoligical features of each network and also to compare between different clinical conditions. To do that upload the filtered tables previously obtained during the network preparation step. Netshift has an online interface, you can find it [here](https://web.rniapps.net/netshift/)
+
+We perfomed the following comparisons between groups.
+
+| Control | Case |
+| --- | --- |
+| Healthy | IFG |
+| IFG | IGT |
+| IGT | IFG + IGT |
+| IFG + IGT | T2D |
+| T2D | T2D_treated |
+
+
 
 
 
