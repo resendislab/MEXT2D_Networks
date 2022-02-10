@@ -63,12 +63,12 @@ We perfomed the following comparisons between groups.
 | IFG + IGT | T2D |
 | T2D | T2D_treated |
 
+## Differential abundance analysis
 
+In this step, we used [EdgeR](https://bioconductor.org/packages/release/bioc/html/edgeR.html) to infer how the abundance of gut microbiota is related to the clinical status of patients. The analysis was carried out at the genus level using the same groups described above.
 
+## Microbial structure analysis
 
-
-
-
-
+We used [Upset R library](https://cran.r-project.org/web/packages/UpSetR/index.html) to generate absence/presence plots from the nodes network for each clinical condition.
 
 
