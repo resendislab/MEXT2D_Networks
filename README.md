@@ -39,7 +39,7 @@ We used SparCC to infer microbial interactions for every group of study. Run the
 
 Run the next script in R to get the nodes and edges of each network for every group of study:
 
-[net_preparation.R](www.abcdefgh.com)
+[net_preparation.R](https://github.com/resendislab/MEXT2D_Networks/blob/main/scripts/net_preparation.R)
 
 Note:  you will need to run an additional script in python. It is available in [notebook](https://github.com/resendislab/MEXT2D_Networks/blob/main/scripts/merge_taxa.ipynb) format. 
 
