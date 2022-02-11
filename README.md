@@ -41,7 +41,7 @@ Run the next script in R to get the nodes and edges of each network for every gr
 
 [net_preparation.R](www.abcdefgh.com)
 
-Note:  you will need to run an additional script in python. It is available in [notebook](www.abcdegfhg) format. 
+Note:  you will need to run an additional script in python. It is available in [notebook](https://github.com/resendislab/MEXT2D_Networks/blob/main/scripts/merge_taxa.ipynb) format. 
 
 #### Network visualization
 
