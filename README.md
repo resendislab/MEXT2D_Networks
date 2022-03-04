@@ -47,7 +47,7 @@ Note:  you will need to run an additional script in python. It is available in [
 
 Run the next script in R, it will create an html file with the network visualization:
 
-[net_visualization.R](https://github.com/resendislab/MEXT2D_Networks/blob/main/scripts/net_visualization.R)
+[net_visualization.R](https://github.com/resendislab/MEXT2D_Networks/blob/main/scripts/net_visualization.r)
 
 ## Network analysis
 
