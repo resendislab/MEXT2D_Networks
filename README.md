@@ -24,8 +24,7 @@ We organized the data in separated tables according to their T2D status, healthy
 
 The next figure presents the methods used in our paper. Every step is detailled in the following sections
 
-![image](https://user-images.githubusercontent.com/71458550/151588872-299f311a-9e5f-4904-9ef7-467e106a399b.png)
-
+![methods_flowchart](https://user-images.githubusercontent.com/93368152/175101577-d1007864-a419-4bfe-937e-0af09b4157c0.png)
 
 ## Network inference
 
