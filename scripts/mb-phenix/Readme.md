@@ -1,5 +1,5 @@
 
-We denoised microbiota data with [mb-PHENIX]  (https://doi.org/10.1101/2022.06.23.497285) 
+We denoised microbiota data with [mb-PHENIX](https://doi.org/10.1101/2022.06.23.497285) 
 ## mb-phenix implementation
 
 We used google colab with python 3 at Friday, 22 March 2022,
