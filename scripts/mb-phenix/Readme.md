@@ -3,9 +3,12 @@ We denoised microbiota data with [mb-PHENIX](https://doi.org/10.1101/2022.06.23.
 ## mb-phenix implementation
 
 We used google colab with python 3 at Friday, 22 March 2022,
-In the colab notebook there is code of the denoising process(imputation), We used different knn values but we  selected knn= 17 in order to avoid over-smoothing of data and recover clusters structure as much as posible (hierarchical heatmap). This can be found in the folder [Imputation with mb-phenix](https://github.com/resendislab/MEXT2D_Networks/tree/main/scripts/mb-phenix/Imputation%20with%20mb-phenix) files(.txt matrices) and code (merge and EMD.ipynb)
+In the colab notebook there is code of the denoising process(imputation), We used different knn values but we  selected knn= 17 in order to avoid over-smoothing of data and recover clusters structure as much as posible (hierarchical heatmap). This can be found in the folder [Imputation with mb-phenix](https://github.com/resendislab/MEXT2D_Networks/tree/main/scripts/mb-phenix/Imputation%20with%20mb-phenix) files(abund_asv.txt) and [code]()
+(https://github.com/resendislab/MEXT2D_Networks/blob/main/scripts/mb-phenix/Imputation%20with%20mb-phenix/mb_phenix.ipynb)
+mb_phenix.ipyn
+
 
 Then we colapsed imputed asv data for taxa information (.txt matrices). Then to observe shits among taxa with the colapsed and imputed data 
-,we apply EMD(Earth mover's Distances) metric by clusters(cluster status vs the rest of samples). The EDM is multiply by the sign (negative or positive) of the mean differences (cluster status vs the rest of samples) The code can be found in [here](https://github.com/resendislab/MEXT2D_Networks/tree/main/scripts/mb-phenix).  We used the library named [scprep](https://scprep.readthedocs.io/en/stable/reference.html) for EMD and shift analysis.
-
+,we apply EMD(Earth mover's Distances) metric by clusters(cluster status vs the rest of samples). The EDM is multiply by the sign (negative or positive) of the mean differences (cluster status vs the rest of samples) The code can be found in [here](https://github.com/resendislab/MEXT2D_Networks/tree/main/scripts/mb-phenix), named "merge and EMD.ipynb"  
+We used the library named [scprep](https://scprep.readthedocs.io/en/stable/reference.html) for EMD and shift analysis. 
 
