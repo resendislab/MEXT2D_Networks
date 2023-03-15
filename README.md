@@ -85,5 +85,11 @@ Please, follow the next links to visualize the results
 
 ## Networks
 
+* [Healthy vs IFG](https://rawcdn.githack.com/resendislab/MEXT2D_Networks/d6b4f8034a37bd2543f0a39b0c4c0de600b86d5d/results/networkhealthyvsIFGv1.html)
+* [IFG vs IGT](https://rawcdn.githack.com/resendislab/MEXT2D_Networks/d6b4f8034a37bd2543f0a39b0c4c0de600b86d5d/results/networkIFGvsIGT.html)
+* [IGT vs IFG + IGT](https://rawcdn.githack.com/resendislab/MEXT2D_Networks/d6b4f8034a37bd2543f0a39b0c4c0de600b86d5d/results/networkIGTvsIFG_IGT.html)
+* [IFG + IGT vs T2D](https://rawcdn.githack.com/resendislab/MEXT2D_Networks/d6b4f8034a37bd2543f0a39b0c4c0de600b86d5d/results/networkIFG_IGTvsT2D.html)
+* [T2D vs T2D_treated](https://rawcdn.githack.com/resendislab/MEXT2D_Networks/d6b4f8034a37bd2543f0a39b0c4c0de600b86d5d/results/networkT2DvsT2D_treated.html)
+
 
 
