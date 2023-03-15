@@ -76,12 +76,12 @@ Please, follow the next links to visualize the results
 
 ## Krona Plots
 
-[IFG + IGT](https://rawcdn.githack.com/resendislab/MEXT2D_Networks/a1b379fd87aeb3b62279106fb2210d0cf07871b9/results/IFG_IGT.krona.html)
-[IFG](https://rawcdn.githack.com/resendislab/MEXT2D_Networks/8c54d189c20092b598d2d98558492eb98d7e8c81/results/IFGkrona.html)
-[IGT](https://rawcdn.githack.com/resendislab/MEXT2D_Networks/8c54d189c20092b598d2d98558492eb98d7e8c81/results/IGT.krona.html)
-[T2D](https://rawcdn.githack.com/resendislab/MEXT2D_Networks/8c54d189c20092b598d2d98558492eb98d7e8c81/results/T2D.krona.html)
-[T2D_treated](https://rawcdn.githack.com/resendislab/MEXT2D_Networks/8c54d189c20092b598d2d98558492eb98d7e8c81/results/T2D_treated.krona.html)
-[Healthy](https://rawcdn.githack.com/resendislab/MEXT2D_Networks/8c54d189c20092b598d2d98558492eb98d7e8c81/results/healthy.krona.html)
+* [IFG + IGT](https://rawcdn.githack.com/resendislab/MEXT2D_Networks/a1b379fd87aeb3b62279106fb2210d0cf07871b9/results/IFG_IGT.krona.html)
+* [IFG](https://rawcdn.githack.com/resendislab/MEXT2D_Networks/8c54d189c20092b598d2d98558492eb98d7e8c81/results/IFGkrona.html)
+* [IGT](https://rawcdn.githack.com/resendislab/MEXT2D_Networks/8c54d189c20092b598d2d98558492eb98d7e8c81/results/IGT.krona.html)
+* [T2D](https://rawcdn.githack.com/resendislab/MEXT2D_Networks/8c54d189c20092b598d2d98558492eb98d7e8c81/results/T2D.krona.html)
+* [T2D_treated](https://rawcdn.githack.com/resendislab/MEXT2D_Networks/8c54d189c20092b598d2d98558492eb98d7e8c81/results/T2D_treated.krona.html)
+* [Healthy](https://rawcdn.githack.com/resendislab/MEXT2D_Networks/8c54d189c20092b598d2d98558492eb98d7e8c81/results/healthy.krona.html)
 
 ## Networks
 
