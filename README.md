@@ -76,6 +76,8 @@ Please, follow the next links to visualize the results
 
 ## Krona Plots
 
+[IFG + IGT](https://rawcdn.githack.com/resendislab/MEXT2D_Networks/a1b379fd87aeb3b62279106fb2210d0cf07871b9/results/IFG_IGT.krona.html)
+
 ## Networks
 
 
