@@ -70,4 +70,13 @@ In this step, we used [EdgeR](https://bioconductor.org/packages/release/bioc/htm
 
 We used [Upset R library](https://cran.r-project.org/web/packages/UpSetR/index.html) to generate absence/presence plots from the nodes network for each clinical condition.
 
+### Results
+
+Please, follow the next links to visualize the results
+
+## Krona Plots
+
+## Networks
+
+
 
