@@ -1,6 +1,6 @@
 This repository contains all the code to implement all examples showed in our paper:
 
-The gut microbiota and the progression of preT2D to T2D are linked to keystone taxa in Mexican cohort study: A multidimensional perspective on microbial ecology
+A network perspective on the ecology of gut microbiota and progression of Type 2 Diabetes: linkages to keystone taxa in a Mexican cohort
 
 ## Data
 
