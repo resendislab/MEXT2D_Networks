@@ -85,6 +85,19 @@ Please, follow the next links to visualize the results
 
 ## Networks
 
+The networks follow the next shape code for each group population:
+
+| State | Shape |
+| --- | --- | 
+| Healthy | Square | 
+| IFG | Triangle | 
+| IGT | Diamond | 
+| IFG + IGT | Star | 
+| T2D | Dot | 
+| T2D_Treated | Triangle down | 
+
+The color of each node refers to a specific Phylum and they are indicated in the networks graph.
+
 * [Healthy vs IFG](https://rawcdn.githack.com/resendislab/MEXT2D_Networks/d6b4f8034a37bd2543f0a39b0c4c0de600b86d5d/results/networkhealthyvsIFGv1.html)
 * [IFG vs IGT](https://rawcdn.githack.com/resendislab/MEXT2D_Networks/d6b4f8034a37bd2543f0a39b0c4c0de600b86d5d/results/networkIFGvsIGT.html)
 * [IGT vs IFG + IGT](https://rawcdn.githack.com/resendislab/MEXT2D_Networks/d6b4f8034a37bd2543f0a39b0c4c0de600b86d5d/results/networkIGTvsIFG_IGT.html)
